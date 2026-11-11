@@ -131,3 +131,11 @@ by automatically forking the project and prompting to send a pull request too.
 
 [CC0-1.0](./LICENSE).
 
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [github/gitignore](https://github.com/github/gitignore), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: Creative Commons Zero v1.0 Universal (mantida sem alterações).
+
+**Fonte original:** https://github.com/github/gitignore
